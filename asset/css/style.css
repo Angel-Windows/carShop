@@ -111,6 +111,9 @@ section p, section h4 {
     color: white;
     padding: 20px;
     text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .footer address p {
